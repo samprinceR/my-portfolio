@@ -1,2 +1,2 @@
-# my-portfolio
+portfolio
 my second repsitory on github

@@ -73,7 +73,7 @@
     
     .about {
         padding-top: 100px;
-        margin-bottom: -130px;
+        margin-bottom: 50px;
     }
     
     .profile-img {
@@ -87,7 +87,7 @@
     }
     
     .navbar {
-        background-color: #000;
+        background-color: black;
     }
     
     .navbar-brand img {
