@@ -321,3 +321,14 @@
         transition: 1s;
         color: red;
     }
+    
+    .guide {
+        background: #e7dede;
+        padding: 10px;
+    }
+    
+    .guide a:hover {
+        background: #000;
+        color: red;
+        transition: 1s;
+    }
