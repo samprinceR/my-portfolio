@@ -1,2 +1,1 @@
-portfolio
-my second repsitory on github
+SamprinceR.Github.io
