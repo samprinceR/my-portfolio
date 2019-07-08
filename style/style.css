@@ -55,3 +55,32 @@ header h1 a:hover {
     color: rgb(238, 9, 9);
     background-blend-mode: difference;
 }
+ .social-icons {
+        top: 50%;
+        transform: translateY(-50%);
+        position: relative;
+        width: 80px;
+        z-index: 1;
+    }
+    
+    .social-icons ul {
+        padding: initial;
+    }
+    
+   .social-icons ul li {
+        height: 40px;
+        width: 40px;
+        list-style-type: none;
+        padding-left: 12px;
+        padding-top: 6px;
+        margin-top: 5px;
+        color: #218, 75, 75;
+        background: #000;
+    }
+    
+    .social-icons ul li:hover {
+        padding-left: 30px;
+        width: 80px;
+        transition: 1s;
+        color: red;
+    }
